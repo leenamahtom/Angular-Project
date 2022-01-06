@@ -1,0 +1,73 @@
+.row {
+    margin-top: 60px;
+    border: 3px solid lightgrey;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.welbox {
+    border: 3px solid lightgrey;
+    border-radius: 5px;
+    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+    width: 65%;
+    display: block;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 13%;
+    padding: 40px;
+}
+
+.welimage {
+    img {
+        height: 400px;
+        width: 88%;
+        display: block;
+        margin-left: auto;
+        margin-right: 95px;
+        margin-top: opx;
+    }
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.buttton {
+    border: none;
+    color: white;
+    padding: 30px 130px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 70px;
+    margin: 120px;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #4e6e2b;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    margin-left: 88px;
+    color: white;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-display: center;
+}
+
+.button2 {
+    background-color: #4e6e2b;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    margin-left: 88px;
+    color: white;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 25px;
+}

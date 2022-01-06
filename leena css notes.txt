@@ -1,0 +1,44 @@
+1.background image-Last one;[background image for specific elements]
+2.border radius is used to specify that how the border becomes rounder
+3.border-color is to specify the color of the border. and the each line can be set differently like upper different line bottom different color right border different colour and left  border different color.
+4.Margins are used to create space around elements, outside of any defined borders.                        
+                             THIS IS FOR ANGULAR
+
+4.localhost:4200 is for angular which we should get in angular.
+5.go to cmd which is command prompt then in that your project name wil be in default example:demo>it wil be in this format then in that you have to type ng serve afta that project wil start running and then we can start working.this ng serve is to open the project in chrome in which a number wil come and which is that localhost:4200 that number depends and changes upon the project but in a project we can create many names and coding but a project is different from that example:like meme denim is a project,meme yarn is another project,meme fibre is another project,opehila moon is another project and home craft is another project like that.
+6.First we have to go in new volume E(it is in the current lap in which leena is using) or wherever our project is created we can open that there then above where the option ThisPC> New Volume(E:) > demo is given go there erase that and type cmd.then afta that command pro app will get opened.then there the project which we have created wil come example(the project which i created is demo)that project demo will come in that place we have to go and type code space which is(code .)then it will direct us automatically to the vs code.which is our project where we can go and type our code whichever we want. we can do that project in vs code.
+7.open bootstrap in google then go to vs code and search for index.html or give control+p and type index.html then copy these three and paste these css, js and bundle from bootstrap to that code copy and paste there in the body under that app root paste those three and ctrl+s(save it).
+8.to save a page first you should go to file manager then open your project which you have created ex.demo open that and then in that go to src and in that go to app and in that app go to pages and create a folder whichever you want like the page create a page name example:home and register after creating tht u go to above there cancel all that and put cmd and after that cmd wil get opened paste this there in that(ng generate module customers --route customers --module app.module) it will get loaded and after that "*Important thing to be noted you have to change the name which you wanted to create in that command "in that ng generate module customers --route customers --module app.module in this you have to change that generate module customers in that instead of customer you have to take that thing and put which ever name you want to ex.i wil put contacts, so i wil remove customer from that and wil put contacts which is the field i want in wil mention that.then that will get created in code automatically.
+9.see anything you have doubt in angular lazy loading google it and see.
+10.phn-12 and tab-12 for laptop its 6.
+11.validators and pattern validators
+12.this thing is to create a folder 1st to create a folder we have to go to that page where we have created our project for example i have created my project in new volume(E) in that in demo page i have created we should go inside that and go inside src then inside src we wil get some options like app,assets,environments,favicon etc etc..,in that we have to go to app inside that app we wil get some options like component,pages,providers etc etc.., in that pages we have to go inside and erase that upper thing i.e,This PC> New Volume(E:)> demo > src > app > pages and we should erase everything and put cmd then cmd wil get opened in that we have to copy that thing from that lazy loading we have to google lazy loading and copy this thing ng generate module customers --route customers --module app.module and then erase customers which occurs in the two place and then put watever field we want to and we can see that in the file manager as well as in our vs code. 
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+
+
+
+QUESTIONS TO BE ASKED
+what is ngcc why is that for?
+contain
+cover
+fill
+A.for css comment tag is /*......*/
+b.object-fit: cover,contain,fill.
+c.margin-left(which should be mostly given in left which can even go to the minus.) to bring the image or to set the image in the middle of the page.
+8.ng build --prod this is for taking build in cmd prompt.afta that gets completed,we should go to filezilla.we can then take our code and move to the right side to show our work done in chrome.
+9.container-fluid should be mentioned in the start of the page this is for having the width of the page to fill the available width of the page without a gap.if only we put container then it wil not fill the page.the writting format for both is that we have to write as <div class="container-fluid">
+10.the first thing that will get called in for a webiste is index.html then app.compnent.ts, app.component.html, app.routing.ts then which page we want that wil get called example home and for a page the first thing that wil call is app.component.ts then html and css
+							TO DO
+1.Zoom in and zoom out function and poping up image option.
