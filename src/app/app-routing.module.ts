@@ -11,7 +11,8 @@ const routes: Routes = [
   { path: 'register', loadChildren: () => import('./pages/register/register.module').then(m => m.RegisterModule) },
   { path: 'contact', loadChildren: () => import('./pages/contact/contact.module').then(m => m.ContactModule) },
   { path: 'Welcome', loadChildren: () => import('./pages/welcome/welcome.module').then(m => m.WelcomeModule) },
-  { path: 'loginadmin', loadChildren: () => import('./pages/loginadmin/loginadmin.module').then(m => m.LoginadminModule) }
+  { path: 'loginadmin', loadChildren: () => import('./pages/loginadmin/loginadmin.module').then(m => m.LoginadminModule) },
+  { path: 'adminlogin', loadChildren: () => import('./pages/adminlogin/adminlogin.module').then(m => m.AdminloginModule) }
 ];
 
 @NgModule({

@@ -6,14 +6,17 @@ import { RegisterComponent } from './register.component';
 import { MaterialModule } from 'src/app/providers/material/material.module';
 
 
+
 @NgModule({
   declarations: [
     RegisterComponent
   ],
+
   imports: [
     CommonModule,
     MaterialModule,
-    RegisterRoutingModule
+    RegisterRoutingModule,
   ]
 })
 export class RegisterModule { }
+

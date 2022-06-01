@@ -11,5 +11,8 @@ export class RegisterComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  getName(name:any) {
+    alert(name)
+  }
 
 }
